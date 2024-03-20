@@ -1,6 +1,6 @@
 "# HavaYolu-Bilgi-Sistemi-" 
 
-<h2>Rabor</h2>
+<h2>Rapor</h2>
 
 <a>https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/NesneTabanliprogramlama.pdf</a>
 
