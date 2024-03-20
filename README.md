@@ -6,7 +6,7 @@
 
 <h2> UML Diagram </h2>
 
-<a>https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/UMLDiyagrami.pdf</a>
+<a>https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/UML%20Diyagrami.pdf</a>
 
 <h2> UseCase Diagram </h2>
 
