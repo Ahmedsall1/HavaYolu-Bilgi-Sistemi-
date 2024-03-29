@@ -16,5 +16,12 @@
 
 <a>https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/SequenceDiagram.pdf</a>
 
+<h2> Kulanılan Araçlar </h2>
+<ul>
+    <li> Netbeans IDE 8.2 </li>
+    <li> Visio </li>
+    <li> JFrame Form </li>
+</ul>
+
 
 
