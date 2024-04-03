@@ -18,6 +18,8 @@
 
 <a>https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/SequenceDiagram.pdf</a>
 
+<img src="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/foto/Screenshot%202024-04-03%20100708.png">
+
 <h2> Kulanılan Araçlar </h2>
 <ul>
     <li> Netbeans IDE 8.2 </li>
