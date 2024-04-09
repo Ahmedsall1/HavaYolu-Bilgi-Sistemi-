@@ -6,7 +6,7 @@
 <h2><a href="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/UML%20Diyagrami.pdf"> UML Diagram PDF </a></h2>
 
 
-<img src="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/foto/Screenshot%202024-04-03%20100524.png" width="675" height="641" >
+<img src="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/foto/Screenshot%202024-04-03%20100524.png"  >
 
 <h2><a href="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/HavaYoluUseCaseDiyagram.pdf"> UseCase Diagram PDF</a> </h2>
 
