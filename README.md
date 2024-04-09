@@ -11,12 +11,12 @@
 <h2><a href="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/HavaYoluUseCaseDiyagram.pdf"> UseCase Diagram PDF</a> </h2>
 
 
-<img src="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/foto/Screenshot%202024-04-03%20100755.png" width="1196" height="550">
+<img src="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/foto/Screenshot%202024-04-03%20100755.png" >
 
 <h2> <a href="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/SequenceDiagram.pdf">Sequence Diagram PDF</a> </h2>
 
 
-<img src="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/foto/Screenshot%202024-04-03%20100708.png" width="801" height="643">
+<img src="https://github.com/Ahmedsall1/HavaYolu-Bilgi-Sistemi-/blob/main/foto/Screenshot%202024-04-03%20100708.png" >
 
 <h2> Kulanılan Araçlar </h2>
 <ul>
